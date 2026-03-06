@@ -1,5 +1,7 @@
 # 🚗 Loja de Carros — Dicionário de Dados
 
+Este projeto foi desenvolvido para a disciplina de Banco de Dados II pelos integrantes: Bruno Ferreira Fonseca, Tiago Leite, Vinicius Almeida dos Anjos e Sthevan Vinicius De Araujo Martins
+
 Documentação do modelo de banco de dados do portal de **compra, venda e comparação de veículos**, projetado para **MySQL** com suporte a integridade referencial, transações ACID e índices eficientes para filtros complexos.
 
 ---
